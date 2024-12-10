@@ -1,0 +1,17 @@
+# > npm init -y
+# npm install express graphql express-graphql mongoose bcryptjs jsonwebtoken dotenv
+
+# npm install --save-dev nodemon
+
+# root >server.js
+
+# root > .env
+
+# root > src > models, schema, resolvers, config, app.js
+
+# root  > .gitignore
+
+
+hb11hCV1b1tX1PDz
+
+muhammadmunimoff330
